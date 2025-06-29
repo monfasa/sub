@@ -1,1 +1,2 @@
-vmess://eyJtb2RlIjoiYXV0byIsImhvc3QiOiJ6YWplZWVlLmlyIiwicHMiOiJ6YWplIiwiaWQiOiJDREI3NzQxRi04NjhFLTQzREUtQjc1OC0yRUYzQjAwMzdENDgiLCJ0bHMiOiJub25lIiwibmV0IjoieGh0dHAiLCJwb3J0IjoiODAiLCJhZGQiOiIxNTEuMTAxLjY3LjgiLCJzY3kiOiIiLCJwYXRoIjoiXC91bHAifQ==
+vless://8303F4FC-DD0A-4EBD-8C01-910D18444F0E@www.zula.ir:443?type=ws&host=naserabdol.naserzadeh.store&path=/manage&security=tls&fp=chrome&sni=naserabdol.naserzadeh.store&alpn=http/1.1&fragment=20-50,1-5,tlshello#Naser
+vless://CDB7741F-868E-43DE-B758-2EF3B0037D48@www.zula.ir:443?type=ws&host=test.naserzadeh.store&path=/ulp&security=tls&fp=chrome&sni=test.naserzadeh.store&alpn=http/1.1&fragment=20-50,1-5,tlshello#zaje
