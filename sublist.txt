@@ -1,2 +1,3 @@
 vless://8303F4FC-DD0A-4EBD-8C01-910D18444F0E@cloud80.hosting-ip.naserzadeh.store:443?type=ws&host=naserabdol.naserzadeh.store&path=/manage&security=tls&fp=chrome&sni=naserabdol.naserzadeh.store&alpn=http/1.1&fragment=20-50,1-5,tlshello#Naser
-vless://CDB7741F-868E-43DE-B758-2EF3B0037D48@cloud80.hosting-ip.naserzadeh.store:443?type=ws&host=test.naserzadeh.store&path=/ulp&security=tls&fp=chrome&sni=test.naserzadeh.store&alpn=http/1.1&fragment=20-50,1-5,tlshello#zaje
+vless://CDB7741F-868E-43DE-B758-2EF3B0037D48@cloud80.hosting-ip.naserzadeh.store:443?type=ws&host=test.naserzadeh.store&path=/ulp&security=tls&fp=chrome&sni=test.naserzadeh.store&alpn=http/1.1&fragment=20-50,1-5,tlshello#Zaje
+vless://C5EB800C-1BEE-4470-B6CD-80A1D300408A@cloud80.hosting-ip.naserzadeh.store:443?type=ws&host=abdolpalang.naserzadeh.store&path=/masir&security=tls&fp=chrome&sni=abdolpalang.naserzadeh.store&alpn=http/1.1&fragment=20-50,1-5,tlshello#AbdolPalang
